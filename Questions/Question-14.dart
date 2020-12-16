@@ -8,5 +8,5 @@ void main() {
 }
 
 String numToString(num) {
-  return ('"${num}"');
+  return (num.toString());
 }
